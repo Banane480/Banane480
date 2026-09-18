@@ -36,4 +36,4 @@ Anti-cheat de confiance pour serveurs Minecraft Forge. Plateforme professionnell
 ## 📬 Contact
 
 - 🌐 [deadsec.cc](https://deadsec.cc) · [armaz-mc.com](https://armaz-mc.com) · [kernelis.armaz-mc.com](https://kernelis.armaz-mc.com)
-- *(à compléter : Discord / e-mail)*
+- Discord : banane480
