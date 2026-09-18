@@ -1,4 +1,4 @@
-# 🍌 Banane480
+# Banane480
 
 🎓 Étudiant en cybersécurité à Ynov
 🎮 Développement de jeux, modding Minecraft, dev serveur.
